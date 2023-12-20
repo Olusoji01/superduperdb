@@ -21,6 +21,6 @@ By integrating AI at the data's source, we aim to make building AI applications 
 
 SuperDuperDB provides a simple Python interface, but allows experts to drill down to any level of implementation detail such as models weights or training details. Also it allows you to add any function, program, script or algorithm from the Python ecosystem to enhance your workflows and applications - and to combine it with your favorite tooling like FastAPI.
 
-For a high-level introduction to SuperDuperDB refer to the [`README.md` of the open-source code-base of on GitHub](https://github.com/SuperDuperDB/superduperdb).
+For a high-level introduction to SuperDuperDB refer to the [`README.md` of the open-source code-base of on GitHub](https://github.com/SuperDuperDB/superduperdb/blob/main/docs/hr/content/docs/intro.md).
 
 This documentation will help you getting started, and with detailed explanations and usage of `superduperdb`. Let's get started. 🚀
